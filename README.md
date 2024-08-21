@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nehasethii/LeetCode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nehasethii/LeetCode-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/nehasethii/LeetCode-DSA/tree/master/2048-build-array-from-permutation) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/nehasethii/LeetCode-DSA/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
