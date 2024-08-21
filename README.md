@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nehasethii/LeetCode-DSA/tree/master/1505-create-target-array-in-the-given-order) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/nehasethii/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
