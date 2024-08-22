@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1205-defanging-an-ip-address](https://github.com/nehasethii/LeetCode-DSA/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nehasethii/LeetCode-DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nehasethii/LeetCode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2727-number-of-senior-citizens](https://github.com/nehasethii/LeetCode-DSA/tree/master/2727-number-of-senior-citizens) |
