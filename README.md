@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/nehasethii/LeetCode-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nehasethii/LeetCode-DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/nehasethii/LeetCode-DSA/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/nehasethii/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/nehasethii/LeetCode-DSA/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nehasethii/LeetCode-DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nehasethii/LeetCode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2727-number-of-senior-citizens](https://github.com/nehasethii/LeetCode-DSA/tree/master/2727-number-of-senior-citizens) |
