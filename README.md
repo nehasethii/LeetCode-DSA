@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nehasethii/LeetCode-DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/nehasethii/LeetCode-DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nehasethii/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2727-number-of-senior-citizens](https://github.com/nehasethii/LeetCode-DSA/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/nehasethii/LeetCode-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/nehasethii/LeetCode-DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nehasethii/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/nehasethii/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/nehasethii/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nehasethii/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
 | ------- |
