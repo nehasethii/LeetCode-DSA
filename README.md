@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nehasethii/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nehasethii/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0560-subarray-sum-equals-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/nehasethii/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0898-transpose-matrix) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nehasethii/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
