@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/nehasethii/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0650-2-keys-keyboard](https://github.com/nehasethii/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
 | [1031-add-to-array-form-of-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nehasethii/LeetCode-DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
