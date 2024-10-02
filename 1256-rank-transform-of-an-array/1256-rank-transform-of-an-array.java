@@ -3,7 +3,7 @@ class Solution {
         if(arr.length == 0)
             return new int[]{};
         if(arr.length == 1)
-            return new int[]{1}; 
+            return new int[]{1};
         int[] temp = arr.clone();
         Arrays.sort(temp);
         Map<Integer,Integer> map = new HashMap<>();
@@ -12,8 +12,10 @@ class Solution {
         for(int i = 1 ; i < temp.length ; i++)
         {
             if(temp[i] > temp[i-1])
+            {
                 rank++;
-            map.put(temp[i],rank);
+                map.put(temp[i],map.getOrDefault(temp[i],rank));
+            }
         }
         for(int i = 0 ; i < arr.length ; i++)
         {
