@@ -1,40 +1,34 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        int[] change = new int[3];
+        int[] billsCount = new int[3];
         for(int i = 0 ; i < bills.length ; i++)
         {
             if(bills[i] == 5)
+                billsCount[0]++;
+            if(bills[i] == 10)
             {
-                change[0]++;
-            }
-            else if(bills[i] == 10)
-            {
-                if(change[0] >= 1)
-                {
-                    change[0]--;
-                    change[1]++;
-                }
+                if(billsCount[0] < 1)
+                    return false;
                 else
                 {
-                    return false;
-                }
+                    billsCount[1]++;
+                    billsCount[0]--;
+                }   
             }
-            else if(bills[i] == 20)
+            if(bills[i] == 20)
             {
-                if((change[1] >= 1) && (change[0] >= 1))
-                {
-                    change[1]--;
-                    change[0]--;
-                    change[2]++;
-                }
-                else if((change[0] >= 3))
-                {
-                    change[0] -= 3;
-                    change[2]++;
-                }
-                else
-                {
+                if((billsCount[1] < 1 || billsCount[0] < 1) && billsCount[0] < 3)
                     return false;
+                else if(billsCount[1] >= 1 && billsCount[0] >= 1)
+                {
+                    billsCount[2]++;
+                    billsCount[1]--;
+                    billsCount[0]--;
+                }
+                else if(billsCount[0] >= 3)
+                {
+                    billsCount[2]++;
+                    billsCount[0] -= 3;
                 }
             }
         }
