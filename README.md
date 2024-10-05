@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0551-student-attendance-record-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/nehasethii/LeetCode-DSA/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nehasethii/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nehasethii/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nehasethii/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/nehasethii/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/nehasethii/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/nehasethii/LeetCode-DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/nehasethii/LeetCode-DSA/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nehasethii/LeetCode-DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
