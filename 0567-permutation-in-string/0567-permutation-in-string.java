@@ -9,21 +9,23 @@ class Solution {
             countS1[s1.charAt(i) - 'a']++;
             countS2[s2.charAt(i) - 'a']++;
         }
-
-        for(int i = 0 ; i < s2.length() - s1.length(); i++)
+        for(int i = 0 ; i < s2.length() - s1.length() ; i++)
         {
-            if(matchCount(countS1 , countS2))
+            if(matchFound(countS2,countS1))
                 return true;
-            countS2[s2.charAt(i) - 'a']--;
-            countS2[s2.charAt(s1.length() + i) - 'a']++;
+            else
+            {
+                countS2[s2.charAt(i) - 'a']--;
+                countS2[s2.charAt(i + s1.length()) - 'a']++;
+            }
         }
-        return matchCount(countS1,countS2);
+        return (matchFound(countS2,countS1));
     }
-    public static boolean matchCount(int[] a , int[] b)
+    static boolean matchFound(int[] A,int[] B)
     {
         for(int i = 0 ; i < 26 ; i++)
         {
-            if(a[i] != b[i])
+            if(A[i] != B[i])
                 return false;
         }
         return true;
