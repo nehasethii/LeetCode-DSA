@@ -3,16 +3,8 @@ class Solution {
         int evenCount = 0 ;
         for( int n : nums)
         {
-            int numOfDigits = 0;
-            while(n > 0)
-            {
-                numOfDigits++;
-                n /= 10;
-            }
-            if(numOfDigits % 2 == 0)
-            {
+            if(((int)(Math.log10(n)) + 1) % 2 == 0)
                 evenCount++;
-            }
         }
         return evenCount;
     }
