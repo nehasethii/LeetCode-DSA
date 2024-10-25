@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nehasethii/LeetCode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2727-number-of-senior-citizens](https://github.com/nehasethii/LeetCode-DSA/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nehasethii/LeetCode-DSA/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Simulation
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nehasethii/LeetCode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nehasethii/LeetCode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Counting
 |  |
 | ------- |
@@ -258,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 <!---LeetCode Topics End-->
