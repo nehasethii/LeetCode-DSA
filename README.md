@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/nehasethii/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/nehasethii/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/nehasethii/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/nehasethii/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
