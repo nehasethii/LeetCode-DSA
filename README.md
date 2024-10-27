@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
+| [1185-find-in-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nehasethii/LeetCode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/nehasethii/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
 |  |
@@ -270,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nehasethii/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
