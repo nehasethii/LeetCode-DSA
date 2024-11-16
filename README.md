@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nehasethii/LeetCode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/nehasethii/LeetCode-DSA/tree/master/2727-number-of-senior-citizens) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/nehasethii/LeetCode-DSA/tree/master/3582-find-indices-of-stable-mountains) |
 ## String
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Interactive
 |  |
 | ------- |
