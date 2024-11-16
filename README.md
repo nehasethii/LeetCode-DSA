@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nehasethii/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nehasethii/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nehasethii/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nehasethii/LeetCode-DSA/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
