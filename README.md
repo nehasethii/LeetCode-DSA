@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nehasethii/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nehasethii/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0539-minimum-time-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/nehasethii/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nehasethii/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nehasethii/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nehasethii/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nehasethii/LeetCode-DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
