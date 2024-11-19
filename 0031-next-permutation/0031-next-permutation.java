@@ -21,10 +21,18 @@ class Solution {
                     break;
                 }
             }
-            java.util.Arrays.sort(arr,dec + 1,n);
+            //java.util.Arrays.sort(arr,dec + 1,n);
+            for(i = 0 ; i < (n - dec)/2; i++)
+            {
+                swap(arr,dec + 1 + i,n - 1 - i);
+            }
         }
         else
-            java.util.Arrays.sort(arr);
+        {
+            for(i = 0 ; i < n/2; i++)
+                swap(arr,i,n - 1 - i);
+        }
+            //java.util.Arrays.sort(arr);
     } 
     static void swap(int[] arr, int i1 , int i2) 
     { 
