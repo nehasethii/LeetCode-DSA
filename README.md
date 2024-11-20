@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/nehasethii/LeetCode-DSA/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nehasethii/LeetCode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2580-circular-sentence](https://github.com/nehasethii/LeetCode-DSA/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/nehasethii/LeetCode-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/nehasethii/LeetCode-DSA/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nehasethii/LeetCode-DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nehasethii/LeetCode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nehasethii/LeetCode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/nehasethii/LeetCode-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Counting
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/nehasethii/LeetCode-DSA/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/nehasethii/LeetCode-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Interactive
