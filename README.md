@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nehasethii/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/nehasethii/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/nehasethii/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/nehasethii/LeetCode-DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nehasethii/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nehasethii/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/nehasethii/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
