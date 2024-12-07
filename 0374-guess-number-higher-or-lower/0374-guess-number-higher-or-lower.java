@@ -9,7 +9,7 @@
 
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
-        int start = 1;
+        int start = 0;
         int end = n;
         while(start <= end)
         {
