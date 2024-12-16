@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nehasethii/LeetCode-DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/nehasethii/LeetCode-DSA/tree/master/3582-find-indices-of-stable-mountains) |
 ## String
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/nehasethii/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nehasethii/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nehasethii/LeetCode-DSA/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Matrix
 |  |
@@ -365,4 +368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nehasethii/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
