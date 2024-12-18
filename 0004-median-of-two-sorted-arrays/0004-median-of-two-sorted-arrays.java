@@ -4,36 +4,24 @@ class Solution {
         int n = nums2.length;
         int size = m + n;
         int[] result = new int[size];
-        int i = 0 , j = 0;
-        for(int k = 0 ; k < result.length ; k++)
+        int i = 0;
+        int j = 0;
+        int idx = 0;
+        while(i < m && j < n)
         {
-            if(i >= m)
-            {
-                result[k] = nums2[j];
-                j++;
-            }
-            else if(j >= n)
-            {
-                result[k] = nums1[i];
-                i++;
-            }
+            if(nums1[i] < nums2[j])
+                result[idx++] = nums1[i++];
             else
-            {
-                if(nums2[j] <= nums1[i])
-                {
-                    result[k] = nums2[j];
-                    j++;
-                }
-                else if(nums1[i] <= nums2[j])
-                {
-                    result[k] = nums1[i];
-                    i++;
-                }
-            }
-        } 
+                result[idx++] = nums2[j++];
+        }
+        while(i < m)
+            result[idx++] = nums1[i++];
+        while(j < n)
+            result[idx++] = nums2[j++];
+
         if(size % 2 != 0)
-            return result[size/2];
+            return result[(m + n)/2];
         else
-            return ((double)(result[size/2 - 1] + result[size/2])/2);
+            return (double)(result[size/2 - 1] + result[size/2])/2;
     }
 }
