@@ -5,10 +5,10 @@ class Solution {
         while(start < end)
         {
             int mid = start + (end - start)/2;
-            if(arr[mid] > arr[mid + 1])
-                end = mid;
-            else
+            if(arr[mid + 1] > arr[mid])
                 start = mid + 1;
+            else if(arr[mid + 1] < arr[mid])
+                end = mid;
         }
         return start;
     }
