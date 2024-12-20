@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nehasethii/LeetCode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nehasethii/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/nehasethii/LeetCode-DSA/tree/master/2727-number-of-senior-citizens) |
 | [3427-special-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/3427-special-array-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nehasethii/LeetCode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nehasethii/LeetCode-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Counting
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/nehasethii/LeetCode-DSA/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nehasethii/LeetCode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/nehasethii/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nehasethii/LeetCode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/3427-special-array-ii) |
 ## Recursion
 |  |
