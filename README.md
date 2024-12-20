@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0770-couples-holding-hands](https://github.com/nehasethii/LeetCode-DSA/tree/master/0770-couples-holding-hands) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nehasethii/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nehasethii/LeetCode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -385,4 +386,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nehasethii/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/nehasethii/LeetCode-DSA/tree/master/0770-couples-holding-hands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/nehasethii/LeetCode-DSA/tree/master/0770-couples-holding-hands) |
+## Union Find
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/nehasethii/LeetCode-DSA/tree/master/0770-couples-holding-hands) |
+## Graph
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/nehasethii/LeetCode-DSA/tree/master/0770-couples-holding-hands) |
 <!---LeetCode Topics End-->
