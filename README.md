@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/nehasethii/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/nehasethii/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
 | [1031-add-to-array-form-of-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/nehasethii/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/nehasethii/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0551-student-attendance-record-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/nehasethii/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/nehasethii/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/nehasethii/LeetCode-DSA/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0898-transpose-matrix) |
