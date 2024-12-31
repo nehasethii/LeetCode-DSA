@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/nehasethii/LeetCode-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nehasethii/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1651-shuffle-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/nehasethii/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3427-special-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/3427-special-array-ii) |
