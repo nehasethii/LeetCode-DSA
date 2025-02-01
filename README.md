@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nehasethii/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/nehasethii/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
+| [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nehasethii/LeetCode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0650-2-keys-keyboard](https://github.com/nehasethii/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
+| [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/1764-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nehasethii/LeetCode-DSA/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -423,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/nehasethii/LeetCode-DSA/tree/master/0770-couples-holding-hands) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
