@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nehasethii/LeetCode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nehasethii/LeetCode-DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nehasethii/LeetCode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
