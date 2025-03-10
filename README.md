@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nehasethii/LeetCode-DSA/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Simulation
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/nehasethii/LeetCode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Counting
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Interactive
 |  |
 | ------- |
