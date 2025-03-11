@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/nehasethii/LeetCode-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nehasethii/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1580-shuffle-the-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0650-2-keys-keyboard](https://github.com/nehasethii/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/1764-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nehasethii/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/nehasethii/LeetCode-DSA/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nehasethii/LeetCode-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
