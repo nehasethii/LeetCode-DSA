@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nehasethii/LeetCode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2187-vowels-of-all-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2187-vowels-of-all-substrings) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/nehasethii/LeetCode-DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nehasethii/LeetCode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nehasethii/LeetCode-DSA/tree/master/2649-count-total-number-of-colored-cells) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/nehasethii/LeetCode-DSA/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nehasethii/LeetCode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2187-vowels-of-all-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2187-vowels-of-all-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nehasethii/LeetCode-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/nehasethii/LeetCode-DSA/tree/master/2580-circular-sentence) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/1764-maximum-repeating-substring) |
+| [2187-vowels-of-all-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2187-vowels-of-all-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -497,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nehasethii/LeetCode-DSA/tree/master/2610-closest-prime-numbers-in-range) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
