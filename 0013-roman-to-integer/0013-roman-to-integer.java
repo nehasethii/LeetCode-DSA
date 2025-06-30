@@ -1,56 +1,22 @@
 class Solution {
     public int romanToInt(String s) {
-        int num = 0;
-        for(int i = s.length() - 1 ; i >= 0  ; i--)
-        {
-            if(s.charAt(i) == 'I'){
-                num++;
-            }
-            else if(s.charAt(i) == 'V'){
-                num += 5;
-                if((i != 0) && (s.charAt(i - 1) == 'I')){
-                    num--;
-                    i--;
-                }
-            }
-            else if(s.charAt(i) == 'X')
-            {    
-                num += 10; 
-                if((i != 0) && (s.charAt(i - 1) == 'I')){
-                    num--;
-                    i--;
-                }  
-            }
-            else if(s.charAt(i) == 'L'){
-                num += 50;
-                if((i != 0) && (s.charAt(i - 1) == 'X')){
-                    num -= 10;
-                    i--;
-                }
-            }
-            else if(s.charAt(i) == 'C')
-            {    
-                num += 100;
-                if((i != 0) && (s.charAt(i - 1) == 'X')){
-                    num -= 10;
-                    i--;
-                }
-            }
-            else if(s.charAt(i) == 'D'){
-                num += 500;
-                if((i != 0) && (s.charAt(i - 1) == 'C')){
-                    num -= 100;
-                    i--;
-                }
-            }
-            else if(s.charAt(i) == 'M'){
-                num += 1000;
-                if((i != 0) && (s.charAt(i - 1) == 'C')){
-                    num -= 100;
-                    i--;
-                }
-            }
+        Map<Character,Integer> romans = new HashMap<>();
+        romans.put('I',1);
+        romans.put('V',5);
+        romans.put('X',10);
+        romans.put('L',50);
+        romans.put('C',100);
+        romans.put('D',500);
+        romans.put('M',1000);
+        int n = s.length();
+        int ans = 0;
+        ans += romans.get(s.charAt(n-1));
+        for(int i = n-2 ; i >= 0 ; i--){
+            if(romans.get(s.charAt(i)) < romans.get(s.charAt(i+1)))
+                ans -= romans.get(s.charAt(i));
+            else
+                ans += romans.get(s.charAt(i));
         }
-        return num;
+        return ans;
     }
 }
