@@ -1,32 +1,31 @@
 class Solution {
     public int[][] generateMatrix(int n) {
-        int num = 1;
-        int[][] spiralMatrix = new int[n][n];
-        int top = 0;
-        int left = 0;
-        int bottom = n - 1;
-        int right = n - 1;
-        while(top <= bottom && left <= right)
-        {
-            for(int i = left ; i <= right ; i++)
-                spiralMatrix[top][i] = num++;
+        int top = 0 , left = 0;
+        int bottom = n - 1 , right = n - 1;
+        int[][] spiral = new int[n][n];
+        int count = 1;
+        while(count <= n * n){
+            for(int i = left ; i <= right ; i++){
+                spiral[top][i] = count++;
+            }
             top++;
-            for(int i = top ; i <= bottom ; i++)
-                spiralMatrix[i][right] = num++;
+            for(int i = top ; i <= bottom ; i++){
+                spiral[i][right] = count++;
+            }
             right--;
-            if(top < bottom)
-            {
-                for(int i = right ; i >= left ; i--)
-                    spiralMatrix[bottom][i] = num++;
-                bottom--;
+            if(top > bottom)
+                break;
+            for(int i = right ; i >= left ; i--){
+                spiral[bottom][i] = count++;
             }
-            if(left < right)
-            {
-                for(int i = bottom ; i >= top ; i--)
-                    spiralMatrix[i][left] = num++;
-                left++;
+            bottom--;
+            if(left > right)
+                break;
+            for(int i = bottom ; i >= top ; i--){
+                spiral[i][left] = count++;
             }
+            left++;
         }
-        return spiralMatrix;
+        return spiral;
     }
 }
