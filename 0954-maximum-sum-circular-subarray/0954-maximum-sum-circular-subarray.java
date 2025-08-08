@@ -1,41 +1,23 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
-        //BRUTE FORCE
-
-        // int n = nums.length;
-        // int max = nums[0];
-        // for(int i = 0 ; i < n ; i++){
-        //     int sum = 0;
-        //     for(int j = i ; j < i + n ; j++){
-        //         sum += nums[j % n];
-        //         max = Math.max(max,sum);
-        //     }
-        // }
-        // return max;
-
-        //OPTIMAL
-
-        int n = nums.length;
         int arraySum = 0;
-        for(int num : nums){
-            arraySum += num;
+        int n = nums.length;
+        for(int i = 0 ; i < n ; i++){
+            arraySum += nums[i];
         }
-
-        int maxSum = nums[0];
-        int curSum = nums[0];
-        for(int i = 1 ; i < n ; i++){
-            curSum = Math.max(nums[i],curSum + nums[i]);
-            maxSum = Math.max(maxSum , curSum);
-        }
-
+        int maxSoFar = nums[0];
+        int kadaneSum = nums[0];
+        int minSoFar = nums[0];
         int minSum = nums[0];
-        int currSum = nums[0];
         for(int i = 1 ; i < n ; i++){
-            currSum = Math.min(nums[i],currSum + nums[i]);
-            minSum = Math.min(minSum , currSum);
+            maxSoFar = Math.max(maxSoFar + nums[i] , nums[i]);
+            kadaneSum = Math.max(kadaneSum , maxSoFar);
+            minSoFar = Math.min(minSoFar + nums[i] , nums[i]);
+            minSum = Math.min(minSum , minSoFar);
         }
-        if(arraySum == minSum)
-            return maxSum;
-        return Math.max(maxSum,arraySum - minSum);
+        if(arraySum == minSum){
+            return kadaneSum;
+        }
+        return Math.max(kadaneSum , arraySum - minSum);
     }
 }
