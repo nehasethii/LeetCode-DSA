@@ -1,53 +1,20 @@
 class Solution {
     public int reverse(int x) {
-        int orgNum = x;
-        int revNum = 0;
-        if(x < 0)
+        boolean negative = false;
+        if(x < 0){
             x = -x;
+            negative = true;
+        }
+        if(x == 0)
+            return x;
+        int reverse = 0; 
         while(x > 0){
-            int rem = x % 10;
-            int temp = revNum * 10 + rem;
-            if(revNum > ((int)Math.pow(2,31) - 1 - rem )/10)
+            if((Integer.MAX_VALUE - (x % 10)) / 10 < reverse){
                 return 0;
-            else
-                revNum = temp;
+            }
+            reverse = reverse * 10 + (x % 10);
             x /= 10;
         }
-        if(orgNum < 0)
-            revNum = -revNum;
-        return revNum;
-
-
-
-
-
-
-
-
-
-
-
-
-        // String str = Integer.toString(x);
-        // StringBuilder sb = new StringBuilder(str);
-        // int orgNum = x;
-        // int reverseNum = 0 , remainder = 0;
-        // if(x < 0)
-        //     x = -x;
-        // if ( x > 0 ){
-        //     while(x > 0)
-        //     {
-        //         if(reverseNum > Integer.MAX_VALUE/10) 
-        //         {
-        //             return 0;
-        //         } 
-        //         remainder = x % 10;
-        //         reverseNum = reverseNum * 10 + remainder;
-        //         x /= 10;
-        //     }
-        // }  
-        // if(orgNum < 0)
-        //     return -reverseNum;
-        // return reverseNum;
+        return (negative) ? -reverse : reverse;
     }
 }
