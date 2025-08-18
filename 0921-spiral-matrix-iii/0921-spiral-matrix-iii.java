@@ -1,56 +1,47 @@
 class Solution {
     public int[][] spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
-        int inc = 1;
-        int idx = 1;
         int r = rStart , c = cStart;
-        int l = rows * cols;
-        int[][] spiral = new int[rows * cols][2];
-        spiral[0][0] = r;
-        spiral[0][1] = c;
-        outer :
-        while(idx < l){
-            for(int i = 1 ; i <= inc ; i++){
+        int[][] ans = new int[rows*cols][2];
+        int count = 1;
+        int inc = 1;
+        ans[0][0] = r;
+        ans[0][1] = c;
+        while(count < rows * cols){
+            for(int i = 0 ; i < inc ; i++){
                 c++;
-                if(c < cols && r < rows && r >= 0 && c >= 0){
-                    spiral[idx][0] = r;
-                    spiral[idx][1] = c;
-                    idx++;
-                    if(idx >= l)
-                        break outer;
+                if(r >= 0 && c >= 0 && r < rows && c < cols){
+                    ans[count][0] = r;
+                    ans[count][1] = c;
+                    count++;
                 }
             }
-            for(int i = 1 ; i <= inc ; i++){
+            for(int i = 0 ; i < inc ; i++){
                 r++;
-                if(c < cols && r < rows && r >= 0 && c >= 0){
-                    spiral[idx][0] = r;
-                    spiral[idx][1] = c;
-                    idx++;
-                    if(idx >= l)
-                        break outer;
+                if(r >= 0 && c >= 0 && r < rows && c < cols){
+                    ans[count][0] = r;
+                    ans[count][1] = c;
+                    count++;
                 }
             }
-            for(int i = 1 ; i <= inc + 1 ; i++){
+            inc++;
+            for(int i = 0 ; i < inc ; i++){
                 c--;
-                if(c < cols && r < rows && r >= 0 && c >= 0){
-                    spiral[idx][0] = r;
-                    spiral[idx][1] = c;
-                    idx++;
-                    if(idx >= l)
-                        break outer;
+                if(r >= 0 && c >= 0 && r < rows && c < cols){
+                    ans[count][0] = r;
+                    ans[count][1] = c;
+                    count++;
                 }
             }
-            for(int i = 1 ; i <= inc + 1; i++){
+            for(int i = 0 ; i < inc ; i++){
                 r--;
-                if(c < cols && r < rows && r >= 0 && c >= 0){
-                    spiral[idx][0] = r;
-                    spiral[idx][1] = c;
-                    idx++;
-                    if(idx >= l)
-                        break outer;
+                if(r >= 0 && c >= 0 && r < rows && c < cols){
+                    ans[count][0] = r;
+                    ans[count][1] = c;
+                    count++;
                 }
             }
-            inc += 2;
+            inc++;
         }
-        return spiral;
+        return ans;
     }
 }
