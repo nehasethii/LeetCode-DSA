@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nehasethii/LeetCode-DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/nehasethii/LeetCode-DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2187-vowels-of-all-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2187-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/nehasethii/LeetCode-DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nehasethii/LeetCode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1917-maximum-average-pass-ratio](https://github.com/nehasethii/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/nehasethii/LeetCode-DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Dynamic Programming
 |  |
