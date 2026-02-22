@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nehasethii/LeetCode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nehasethii/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nehasethii/LeetCode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/nehasethii/LeetCode-DSA/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nehasethii/LeetCode-DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/nehasethii/LeetCode-DSA/tree/master/0861-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nehasethii/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nehasethii/LeetCode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
