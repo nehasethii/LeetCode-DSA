@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nehasethii/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nehasethii/LeetCode-DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1651-shuffle-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nehasethii/LeetCode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1764-maximum-repeating-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nehasethii/LeetCode-DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/nehasethii/LeetCode-DSA/tree/master/1797-goal-parser-interpretation) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/nehasethii/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nehasethii/LeetCode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nehasethii/LeetCode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/nehasethii/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/nehasethii/LeetCode-DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
