@@ -14,11 +14,6 @@ class Solution {
                 }
             }
         }
-        // for(int i = 0 ; i < n ; i++){
-        //     if(count[i] < (n-i-1)){
-        //         return -1;
-        //     }
-        // }
         for(int i = 0 ; i < n ; i++){
             if(count[i] >= (n-i-1)){
                 continue;
