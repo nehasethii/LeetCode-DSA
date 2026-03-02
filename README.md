@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nehasethii/LeetCode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2187-vowels-of-all-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2187-vowels-of-all-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nehasethii/LeetCode-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2580-circular-sentence](https://github.com/nehasethii/LeetCode-DSA/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nehasethii/LeetCode-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nehasethii/LeetCode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2388-replace-elements-in-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/2388-replace-elements-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nehasethii/LeetCode-DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/nehasethii/LeetCode-DSA/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
