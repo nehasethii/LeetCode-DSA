@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nehasethii/LeetCode-DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1797-goal-parser-interpretation](https://github.com/nehasethii/LeetCode-DSA/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/nehasethii/LeetCode-DSA/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nehasethii/LeetCode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/nehasethii/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/nehasethii/LeetCode-DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nehasethii/LeetCode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/1764-maximum-repeating-substring) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nehasethii/LeetCode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2187-vowels-of-all-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2187-vowels-of-all-substrings) |
 ## Bit Manipulation
 |  |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nehasethii/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/nehasethii/LeetCode-DSA/tree/master/1755-defuse-the-bomb) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nehasethii/LeetCode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nehasethii/LeetCode-DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nehasethii/LeetCode-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
