@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/nehasethii/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3031-construct-product-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/3031-construct-product-matrix) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3427-special-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/1764-maximum-repeating-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nehasethii/LeetCode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2187-vowels-of-all-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2187-vowels-of-all-substrings) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
