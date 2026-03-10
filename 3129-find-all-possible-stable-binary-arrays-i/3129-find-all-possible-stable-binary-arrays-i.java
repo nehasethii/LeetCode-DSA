@@ -3,21 +3,22 @@ class Solution {
     int[][][][] dp;
     public int numberOfStableArrays(int zero, int one, int limit) {
         dp = new int[zero+1][one+1][2][limit+1];
-        for(int i=0;i<=zero;i++){
-            for(int j=0;j<=one;j++){
-                for(int k=0;k<2;k++){
-                    Arrays.fill(dp[i][j][k],-1);
-                }
+        for(int i = 0 ; i < zero + 1 ; i++){
+            for(int j = 0 ; j < one + 1 ; j++){
+                Arrays.fill(dp[i][j][0],-1);
+                Arrays.fill(dp[i][j][1],-1);
             }
         }
         long ans = 0;
-        if(zero > 0)
-            ans += countStableArrays(zero-1, one, 0, 1, limit);
-        if(one > 0)
-            ans += countStableArrays(zero, one-1, 1, 1, limit);
+        if(zero > 0){
+            ans += countStableArrays(zero-1,one,0,1,limit);
+        }
+        if(one > 0){
+            ans += countStableArrays(zero,one-1,1,1,limit);
+        }
         return (int)(ans % mod);
     }
-    public int countStableArrays(int z, int o, int last, int count , int limit){
+    public int countStableArrays(int z, int o, int last, int count, int limit){
         if(z == 0 && o == 0){
             return 1;
         }
