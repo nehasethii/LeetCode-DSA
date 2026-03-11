@@ -1,15 +1,17 @@
 class Solution {
-    public int findComplement(int num) {
-        String binary = Integer.toBinaryString(num);
-        StringBuilder bin = new StringBuilder();
-        for(int i = 0 ; i < binary.length() ; i++)
-        {
-            if(binary.charAt(i) == '0')
-                bin.append(1);
-            else
-                bin.append(0);
-        } 
-        int complement = Integer.parseInt(bin.toString(),2);
-        return complement;
+    public int findComplement(int n) {
+        if(n == 0){
+            return 1;
+        }
+        int ans = 0;
+        int base = 1;
+        while(n > 0){
+            if(n % 2 == 0){
+                ans += base;
+            }
+            base *= 2;
+            n /= 2;
+        }
+        return ans;
     }
 }
