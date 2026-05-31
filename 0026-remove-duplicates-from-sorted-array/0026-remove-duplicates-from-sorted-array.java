@@ -1,13 +1,18 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int i = 1 , j = 1;
-        while(i < nums.length){
-            if(nums[i] != nums[j-1]){
-                nums[j] = nums[i];
-                j++;
+        int low = 1 , high = 1;
+        int count = 1;
+        while(high < nums.length){
+            if(nums[high] == nums[high - 1]){
+                high++;
             }
-            i++;
+            else{
+                nums[low] = nums[high];
+                low++;
+                count++;
+                high++;
+            }
         }
-        return j;
+        return count;
     }
 }
