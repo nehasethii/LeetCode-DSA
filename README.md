@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/nehasethii/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/nehasethii/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0921-spiral-matrix-iii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nehasethii/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/nehasethii/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/nehasethii/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nehasethii/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/nehasethii/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nehasethii/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
