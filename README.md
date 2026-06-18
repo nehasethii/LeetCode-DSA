@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nehasethii/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nehasethii/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/nehasethii/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/nehasethii/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nehasethii/LeetCode-DSA/tree/master/0242-valid-anagram) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehasethii/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/nehasethii/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nehasethii/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
