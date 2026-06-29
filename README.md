@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/nehasethii/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nehasethii/LeetCode-DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/nehasethii/LeetCode-DSA/tree/master/2048-build-array-from-permutation) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/nehasethii/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3031-construct-product-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/3031-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
