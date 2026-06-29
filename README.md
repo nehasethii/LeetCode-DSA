@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nehasethii/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0704-binary-search](https://github.com/nehasethii/LeetCode-DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/nehasethii/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nehasethii/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nehasethii/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/nehasethii/LeetCode-DSA/tree/master/0792-binary-search) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nehasethii/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nehasethii/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/nehasethii/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/nehasethii/LeetCode-DSA/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1603-running-sum-of-1d-array) |
