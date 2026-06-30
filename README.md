@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0921-spiral-matrix-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0921-spiral-matrix-iii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nehasethii/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/nehasethii/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/nehasethii/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nehasethii/LeetCode-DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nehasethii/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/nehasethii/LeetCode-DSA/tree/master/0878-shifting-letters) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/nehasethii/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
