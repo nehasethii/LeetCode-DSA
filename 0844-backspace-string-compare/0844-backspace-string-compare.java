@@ -1,32 +1,46 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        StringBuilder finalS = new StringBuilder();
-        StringBuilder finalT = new StringBuilder();
-        for(int i = 0 ; i < s.length() ; i++){
-            if(s.charAt(i) == '#'){
-                if(finalS.length() != 0){
-                    finalS.deleteCharAt(finalS.length() - 1);
+        int i = s.length() - 1;
+        int j = t.length() - 1;
+        int skip1 = 0;
+        int skip2 = 0;
+        while(i >= 0 || j >= 0){
+            while(i >= 0){
+                if(s.charAt(i) == '#'){
+                    skip1++;
+                    i--;
                 }
-                continue;
-            }
-            finalS.append(s.charAt(i));
-        }
-        for(int i = 0 ; i < t.length() ; i++){
-            if(t.charAt(i) == '#'){
-                if(finalT.length() != 0){
-                    finalT.deleteCharAt(finalT.length() - 1);
+                else if(skip1 > 0){
+                    skip1--;
+                    i--;
                 }
-                continue;
+                else{
+                    break;
+                }
             }
-            finalT.append(t.charAt(i));
-        }
-        if(finalS.length() != finalT.length()){
-            return false;
-        }
-        for(int i = 0 ; i < finalS.length() ; i++){
-            if(finalS.charAt(i) != finalT.charAt(i)){
+            while(j >= 0){
+                if(t.charAt(j) == '#'){
+                    skip2++;
+                    j--;
+                }
+                else if(skip2 > 0){
+                    skip2--;
+                    j--;
+                }
+                else{
+                    break;
+                }
+            }
+            if(i >= 0 && j >= 0){
+                if(s.charAt(i) != t.charAt(j)){
+                    return false;
+                }
+            }
+            else if(i >= 0 || j >= 0){
                 return false;
             }
+            i--;
+            j--;
         }
         return true;
     }
