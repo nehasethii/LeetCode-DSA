@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nehasethii/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/nehasethii/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/nehasethii/LeetCode-DSA/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/nehasethii/LeetCode-DSA/tree/master/0383-ransom-note) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nehasethii/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nehasethii/LeetCode-DSA/tree/master/0383-ransom-note) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nehasethii/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/nehasethii/LeetCode-DSA/tree/master/0476-number-complement) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehasethii/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nehasethii/LeetCode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/nehasethii/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nehasethii/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -712,4 +716,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nehasethii/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
