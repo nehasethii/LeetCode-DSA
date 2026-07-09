@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nehasethii/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/nehasethii/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nehasethii/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/nehasethii/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nehasethii/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nehasethii/LeetCode-DSA/tree/master/0383-ransom-note) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nehasethii/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nehasethii/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nehasethii/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0389-find-the-difference) |
