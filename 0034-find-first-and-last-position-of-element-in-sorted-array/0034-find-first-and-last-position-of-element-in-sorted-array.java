@@ -1,29 +1,27 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] ans = new int[2];
-        ans[0] = BS(nums,target,true);
+        int[] ans = {-1,-1};
+        ans[0] = binarySearch(nums, target, true);
         if(ans[0] == -1){
-            ans[1] = -1;
+            return ans;
         }
-        else{
-            ans[1] = BS(nums,target,false);
-        }
+        ans[1] = binarySearch(nums, target , false);
         return ans;
     }
-    public int BS(int[] nums , int target , boolean first){
+    public int binarySearch(int[] nums, int target, boolean first){
+        int ans = -1;
         int low = 0;
         int high = nums.length - 1;
-        int res = -1;
         while(low <= high){
             int mid = low + (high - low)/2;
-            if(target < nums[mid]){
-                high = mid - 1;
-            }
-            else if(target > nums[mid]){
+            if(nums[mid] < target){
                 low = mid + 1;
             }
+            else if(nums[mid] > target){
+                high = mid - 1;
+            }
             else{
-                res = mid;
+                ans = mid;
                 if(first){
                     high = mid - 1;
                 }
@@ -32,6 +30,6 @@ class Solution {
                 }
             }
         }
-        return res;
+        return ans;
     }
 }
