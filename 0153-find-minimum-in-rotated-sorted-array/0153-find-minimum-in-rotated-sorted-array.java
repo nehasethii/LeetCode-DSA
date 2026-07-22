@@ -1,24 +1,19 @@
 class Solution {
     public int findMin(int[] nums) {
-        int pivot = findPivot(nums);
-        return (pivot == -1) ? nums[0] : nums[pivot+1];
-    }
-    int findPivot(int[] nums)
-    {
-        int start = 0;
-        int end = nums.length - 1;
-        while(start <= end)
-        {
-            int mid = start + (end - start)/2;
-            if(mid > start && nums[mid] < nums[mid -1])
-                return mid - 1;
-            if(mid < end && nums[mid] > nums[mid + 1])
-                return mid;
-            if(nums[mid] > nums[start])
-                start = mid + 1;
-            else
-                end = mid - 1;
+        int n = nums.length;
+        int low = 0;
+        int high = n - 1;
+        int ans = 0;
+        while(low <= high){
+            int mid = low + (high - low)/2;
+            if(nums[mid] > nums[n-1]){
+                low = mid + 1;
+            }
+            else{
+                ans = mid;
+                high = mid -1;
+            }
         }
-        return -1;
+        return nums[ans];
     }
 }
