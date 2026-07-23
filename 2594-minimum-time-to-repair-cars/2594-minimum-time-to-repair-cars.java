@@ -13,6 +13,9 @@ class Solution {
             long carCount = 0;
             for(int rank : ranks){
                 carCount += (long)Math.sqrt(mid/rank);
+                if(carCount >= cars){
+                    break;
+                }
             }
             if(carCount < cars){
                 low = mid + 1;
