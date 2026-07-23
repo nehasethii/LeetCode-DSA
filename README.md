@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nehasethii/LeetCode-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2594-minimum-time-to-repair-cars](https://github.com/nehasethii/LeetCode-DSA/tree/master/2594-minimum-time-to-repair-cars) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nehasethii/LeetCode-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nehasethii/LeetCode-DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2594-minimum-time-to-repair-cars](https://github.com/nehasethii/LeetCode-DSA/tree/master/2594-minimum-time-to-repair-cars) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/3427-special-array-ii) |
