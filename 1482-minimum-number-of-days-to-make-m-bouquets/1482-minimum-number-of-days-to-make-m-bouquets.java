@@ -11,23 +11,19 @@ class Solution {
             high = Math.max(high,day);
         }
         while(low <= high){
-            int[] arr = bloomDay.clone();
             int mid = low + (high - low)/2;
             int adj = 0;
             int bouquet = 0;
             for(int i = 0 ; i < n ; i++){
-                int day = arr[i];
+                int day = bloomDay[i];
                 if(day <= mid){
-                    if(i > 0 && arr[i-1] <= mid){
+                    if(i > 0 && bloomDay[i-1] <= mid){
                         adj++;
                     }
                     else{
                         adj = 1;
                     }
                     if(adj == k){
-                        for(int j = i ; j > i - k ; j--){
-                            arr[j] = Integer.MAX_VALUE;
-                        }
                         bouquet++;
                         adj = 0;
                     }
