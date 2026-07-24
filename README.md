@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/nehasethii/LeetCode-DSA/tree/master/0986-interval-list-intersections) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nehasethii/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1031-add-to-array-form-of-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nehasethii/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/nehasethii/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nehasethii/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nehasethii/LeetCode-DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
