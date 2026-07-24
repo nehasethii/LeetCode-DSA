@@ -15,14 +15,10 @@ class Solution {
             int wtLoaded = 0;
             int daysCount = 0;
             for(int i = 0 ; i < n ; i++){
-                int wt = weights[i];
-                if(wtLoaded + wt <= mid){
-                    wtLoaded += wt;
-                }
-                else{
-                    i--;
+                wtLoaded += weights[i];
+                if(wtLoaded > mid){
                     daysCount++;
-                    wtLoaded = 0;
+                    wtLoaded = weights[i];
                 }
                 if(i == n-1 && wtLoaded <= mid){
                     daysCount++;
