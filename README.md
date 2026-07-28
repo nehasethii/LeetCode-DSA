@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nehasethii/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/nehasethii/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/nehasethii/LeetCode-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nehasethii/LeetCode-DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/nehasethii/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/nehasethii/LeetCode-DSA/tree/master/0436-find-right-interval) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/nehasethii/LeetCode-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/nehasethii/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nehasethii/LeetCode-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/nehasethii/LeetCode-DSA/tree/master/0792-binary-search) |
