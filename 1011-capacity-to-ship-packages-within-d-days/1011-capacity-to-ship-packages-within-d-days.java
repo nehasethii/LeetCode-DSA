@@ -1,30 +1,31 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
         int n = weights.length;
-        int sum = 0;
-        int max = 0;
+        int low = 0;
+        int high = 0;
         for(int wt : weights){
-            max = Math.max(max,wt);
-            sum += wt;
+            high += wt;
+            low = Math.max(low,wt);
         }
-        int low = max;
-        int high = sum;
         int ans = 0;
         while(low <= high){
             int mid = low + (high - low)/2;
-            int wtLoaded = 0;
-            int daysCount = 0;
+            int wt = 0;
+            int d = 0;
             for(int i = 0 ; i < n ; i++){
-                wtLoaded += weights[i];
-                if(wtLoaded > mid){
-                    daysCount++;
-                    wtLoaded = weights[i];
+                wt += weights[i];
+                if(wt > mid){
+                    d++;
+                    wt = weights[i];
                 }
-                if(i == n-1 && wtLoaded <= mid){
-                    daysCount++;
+                if(i == n-1 && wt <= mid){
+                    d++;
+                }
+                if(d > days){
+                    break;
                 }
             }
-            if(daysCount > days){
+            if(d > days){
                 low = mid + 1;
             }
             else{
