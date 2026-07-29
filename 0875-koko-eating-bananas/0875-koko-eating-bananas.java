@@ -3,17 +3,20 @@ class Solution {
         int n = piles.length;
         int low = 1;
         int high = 0;
-        int ans = 0;
-        for(int num : piles){
-            high = Math.max(high,num);
+        for(int pile : piles){
+            high = Math.max(high,pile);
         }
+        int ans = 0;
         while(low <= high){
             int mid = low + (high - low)/2;
-            long hrs = 0;
-            for(int pile : piles){
-                hrs += pile/mid;
-                if(pile % mid != 0){
+            int hrs = 0;
+            for(int i = 0 ; i < n ; i++){
+                hrs += piles[i]/mid;
+                if(piles[i] % mid != 0){
                     hrs++;
+                }
+                if(hrs > h){
+                    break;
                 }
             }
             if(hrs > h){
