@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nehasethii/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/nehasethii/LeetCode-DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nehasethii/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nehasethii/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/nehasethii/LeetCode-DSA/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/nehasethii/LeetCode-DSA/tree/master/0436-find-right-interval) |
@@ -760,4 +762,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/nehasethii/LeetCode-DSA/tree/master/0986-interval-list-intersections) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/nehasethii/LeetCode-DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
