@@ -2,7 +2,6 @@ class Solution {
     public int maximumCandies(int[] candies, long k) {
         int n = candies.length;
         long sum = 0;
-        int ans = 0;
         for(int candy : candies){
             sum += candy;
         }
@@ -11,11 +10,15 @@ class Solution {
         }
         long low = 1;
         long high = sum/k;
+        int ans = 0;
         while(low <= high){
             long mid = low + (high - low)/2;
             long piles = 0;
             for(int candy : candies){
                 piles += candy/mid;
+                if(piles >= k){
+                    break;
+                }
             }
             if(piles < k){
                 high = mid - 1;
