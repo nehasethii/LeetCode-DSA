@@ -1,24 +1,24 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
-        paranthesisCombinations(n,ans,"",0,0);
-        return ans;
+        StringBuilder s = new StringBuilder();
+        return genParenthesis(n,0,0,s,ans);
     }
-    public void paranthesisCombinations(int n, List<String> ans, String temp, 
-    int op, int cp){
-        if(op == n && cp == n){
-            ans.add(temp);
-            return;
+    public List<String> genParenthesis(int n ,int open ,int close, StringBuilder s,List<String> ans){
+        if(open == n && close == n){
+            ans.add(s.toString());
+            return ans;
         }
-        if(op < n){
-            temp += "(";
-            paranthesisCombinations(n,ans,temp,op+1,cp);
-            temp = temp.substring(0,temp.length()-1);
+        if(open < n){
+            s.append("(");
+            genParenthesis(n,open + 1,close,s,ans);
+            s.deleteCharAt(s.length() - 1);
         }
-        if(cp < op){
-            temp += ")";
-            paranthesisCombinations(n,ans,temp,op,cp+1);
-            temp = temp.substring(0,temp.length()-1);
+        if(close < open){
+            s.append(")");
+            genParenthesis(n,open,close+1,s,ans);
+            s.deleteCharAt(s.length() - 1);
         }
+        return ans;
     }
 }
