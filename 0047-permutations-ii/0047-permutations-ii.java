@@ -2,26 +2,25 @@ class Solution {
     List<List<Integer>> ans = new ArrayList<>();
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<Integer> temp = new ArrayList<>();
-        permute(nums,temp);
+        boolean[] visited = new boolean[nums.length];
+        permute(nums,temp,visited);
         return ans;
     }
-    public void permute(int[] nums, List<Integer> temp){
+    public void permute(int[] nums, List<Integer> temp, boolean[] visited){
         if(temp.size() == nums.length){
-            List<Integer> permutation = new ArrayList<>();
-            for(int i = 0 ; i < temp.size() ; i++){
-                permutation.add(nums[temp.get(i)]);
-            }
-            if(!ans.contains(permutation)){
-                List<Integer> permut = new ArrayList<>(permutation);
+            if(!ans.contains(temp)){
+                List<Integer> permut = new ArrayList<>(temp);
                 ans.add(permut);
                 return;
             }
         }
         for(int i = 0 ; i < nums.length ; i++){
-            if(!temp.contains(i)){
-                temp.add(i);
-                permute(nums,temp);
+            if(!visited[i]){
+                visited[i] = true;
+                temp.add(nums[i]);
+                permute(nums,temp,visited);
                 temp.remove(temp.size() - 1);
+                visited[i] = false;
             }
         }
         return;
