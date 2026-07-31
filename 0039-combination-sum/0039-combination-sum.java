@@ -1,26 +1,29 @@
 class Solution {
+    List<List<Integer>> ans = new ArrayList<>();
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(candidates);
         List<Integer> temp = new ArrayList<>();
-        findCombinations(candidates, target, ans, temp, 0);
+        generateCombinations(candidates, target, 0, 0, temp);
         return ans;
     }
-    public void findCombinations(int[] candidates, int target, List<List<Integer>> ans, List<Integer> temp, int sum){
+    public void generateCombinations(int[] candidates , int target, int sum,int i,
+    List<Integer> temp){
         if(sum > target){
             return;
         }
         if(sum == target){
-            List<Integer> res = new ArrayList<>(temp);
-            Collections.sort(res);
-            if(!ans.contains(res)){
-                ans.add(res);
+            //Collections.sort(temp);
+            if(!ans.contains(temp)){
+                List<Integer> combination = new ArrayList<>(temp);
+                ans.add(combination);
+                return;
             }
-            return;
         }
-        for(int i = 0 ; i < candidates.length ; i++){
+        for(; i < candidates.length ; i++){
             temp.add(candidates[i]);
-            findCombinations(candidates,target,ans,temp,sum + candidates[i]);
+            generateCombinations(candidates, target, sum + candidates[i], i, temp);
             temp.remove(temp.size() - 1);
         }
+        return;
     }
 }
