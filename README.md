@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/nehasethii/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/nehasethii/LeetCode-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nehasethii/LeetCode-DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [0996-number-of-squareful-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nehasethii/LeetCode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/nehasethii/LeetCode-DSA/tree/master/0986-interval-list-intersections) |
+| [0996-number-of-squareful-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nehasethii/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1031-add-to-array-form-of-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/nehasethii/LeetCode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nehasethii/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0996-number-of-squareful-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/nehasethii/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nehasethii/LeetCode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/nehasethii/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [0996-number-of-squareful-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1013-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nehasethii/LeetCode-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nehasethii/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/nehasethii/LeetCode-DSA/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nehasethii/LeetCode-DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/nehasethii/LeetCode-DSA/tree/master/0861-flipping-an-image) |
+| [0996-number-of-squareful-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1009-complement-of-base-10-integer](https://github.com/nehasethii/LeetCode-DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nehasethii/LeetCode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nehasethii/LeetCode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -752,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/nehasethii/LeetCode-DSA/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
+| [0996-number-of-squareful-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nehasethii/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
@@ -770,4 +776,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/nehasethii/LeetCode-DSA/tree/master/0274-h-index) |
+## Bitmask
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0996-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
