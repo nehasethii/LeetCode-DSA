@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nehasethii/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nehasethii/LeetCode-DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nehasethii/LeetCode-DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nehasethii/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/nehasethii/LeetCode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nehasethii/LeetCode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/nehasethii/LeetCode-DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/nehasethii/LeetCode-DSA/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nehasethii/LeetCode-DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
