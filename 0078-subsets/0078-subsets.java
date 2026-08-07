@@ -11,9 +11,9 @@ class Solution {
             ans.add(subset);
             return;
         }
-        generateSubsets(nums,idx+1,temp);
+        generateSubsets(nums, idx + 1 ,temp);
         temp.add(nums[idx]);
-        generateSubsets(nums,idx+1,temp);
+        generateSubsets(nums, idx + 1 ,temp);
         temp.remove(temp.size() - 1);
     }
 }
