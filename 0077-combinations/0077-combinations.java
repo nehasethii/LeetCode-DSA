@@ -1,20 +1,22 @@
 class Solution {
+    List<List<Integer>> ans = new ArrayList<>();
     public List<List<Integer>> combine(int n, int k) {
-        List<List<Integer>> ans = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
-        generateCombinations(n,k,ans,temp,1);
+        generateCombinations(n,k,1,temp);
         return ans;
     }
-    public void generateCombinations(int n, int k, List<List<Integer>> ans, List<Integer> temp, int i){
+    public void generateCombinations(int n , int k , int idx , List<Integer> temp){
         if(temp.size() == k){
-            List<Integer> res = new ArrayList<>(temp);
-            ans.add(res);
+            ans.add(new ArrayList<>(temp));
             return;
         }
-        for(;i <= n;i++){
+        for(int i = 1 ; i <= n ; i++){
+            if(i < idx){
+                continue;
+            }
             temp.add(i);
-            generateCombinations(n,k,ans,temp,i+1);
-            temp.remove(temp.size()-1);
+            generateCombinations(n,k,i+1,temp);
+            temp.remove(temp.size() - 1);
         }
     }
 }
