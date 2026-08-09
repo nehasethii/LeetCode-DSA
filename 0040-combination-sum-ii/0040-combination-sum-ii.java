@@ -16,10 +16,7 @@ class Solution {
             ans.add(new ArrayList<>(temp));
             return;
         }
-        for(int i = 0 ; i < candidates.length ; i++){
-            if(i < idx){
-                continue;
-            }
+        for(int i = idx ; i < candidates.length ; i++){
             if(i > 0 && candidates[i] == candidates[i-1] && !visited[i-1]){
                 continue;
             }
