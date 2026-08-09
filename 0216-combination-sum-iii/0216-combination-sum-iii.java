@@ -1,38 +1,21 @@
 class Solution {
+    List<List<Integer>> ans = new ArrayList<>();
     public List<List<Integer>> combinationSum3(int k, int n) {
-        List<List<Integer>> ans = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
-        generateCombinations(k,n,ans,temp,0,1);
+        generateCombinations(k,n,0,temp,0);
         return ans;
     }
-    public void generateCombinations(int k, int n, List<List<Integer>> ans,
-    List<Integer> temp, int sum, int num){
+    public void generateCombinations(int k , int target , int sum , List<Integer> temp , int idx){
         if(temp.size() == k){
-            if(sum < n){
-                return;
+            if(sum == target){
+                ans.add(new ArrayList<>(temp));
             }
-            else if (sum > n){
-                num = 10;
-            }
-            else{
-                List<Integer> res = new ArrayList<>(temp);
-                ans.add(res);
-                num = 10;
-            }
+            return;
         }
-        for(int i = num ; i <= 9 ; i++){
-            if(temp.size() > 0){
-                if(temp.get(temp.size()-1) < i){
-                    temp.add(i);
-                    generateCombinations(k,n,ans,temp,sum+i,num+1);
-                    temp.remove(temp.size() - 1);
-                }
-            }
-            else{
-                temp.add(i);
-                generateCombinations(k,n,ans,temp,sum + i,num+1);
-                temp.remove(temp.size() - 1);
-            }
+        for(int i = idx + 1; i <= 9 ; i++){
+            temp.add(i);
+            generateCombinations(k, target, sum + i, temp, i);
+            temp.remove(temp.size() - 1);
         }
     }
 }
