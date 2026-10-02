@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/nehasethii/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/nehasethii/LeetCode-DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/nehasethii/LeetCode-DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0921-spiral-matrix-iii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nehasethii/LeetCode-DSA/tree/master/1505-create-target-array-in-the-given-order) |
+| [1929-concatenation-of-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/nehasethii/LeetCode-DSA/tree/master/2048-build-array-from-permutation) |
