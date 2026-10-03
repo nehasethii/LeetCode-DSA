@@ -1,32 +1,20 @@
 class Solution {
     public boolean isValid(String s) {
-        ArrayList<Character> p = new ArrayList<>();
-        for(int i = 0 ; i < s.length() ; i++)
-        {
-            if(s.charAt(i) == '(' || s.charAt(i) == '[' || s.charAt(i) == '{')
-                p.add(s.charAt(i));
-            else if(s.charAt(i) == ')')
-            {
-                if(p.size() > 0 && p.get(p.size() - 1) == '(')
-                    p.remove(p.size() - 1);
-                else
-                    return false;
+        Stack<Character> st = new Stack<Character>();
+        for(int i = 0 ; i < s.length() ; i++){
+            char ch = s.charAt(i);
+            if(ch == '(' || ch == '[' || ch == '{'){
+                st.push(ch);
+                continue;
             }
-            else if(s.charAt(i) == ']')
-            {
-                if(p.size() > 0 && p.get(p.size() - 1) == '[')
-                    p.remove(p.size() - 1);
-                else
-                    return false;
+            if(st.empty()){
+                return false;
             }
-            else if(s.charAt(i) == '}')
-            {
-                if(p.size() > 0 && p.get(p.size() - 1) == '{')
-                    p.remove(p.size() - 1);
-                else
-                    return false;
+            if((ch == ')' && st.peek() != '(') || (ch == ']' && st.peek() != '[') || (ch == '}' && st.peek() != '{')){
+                return false;
             }
+            st.pop();
         }
-        return (p.size() == 0) ? true : false;
+        return st.empty();
     }
 }
