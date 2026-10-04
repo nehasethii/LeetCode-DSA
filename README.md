@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/nehasethii/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/nehasethii/LeetCode-DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0812-rotate-string) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/nehasethii/LeetCode-DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/nehasethii/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0770-couples-holding-hands](https://github.com/nehasethii/LeetCode-DSA/tree/master/0770-couples-holding-hands) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nehasethii/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nehasethii/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/nehasethii/LeetCode-DSA/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0996-number-of-squareful-arrays](https://github.com/nehasethii/LeetCode-DSA/tree/master/0996-number-of-squareful-arrays) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nehasethii/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nehasethii/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nehasethii/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nehasethii/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/nehasethii/LeetCode-DSA/tree/master/0844-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nehasethii/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -843,4 +847,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nehasethii/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nehasethii/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
