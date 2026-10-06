@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nehasethii/LeetCode-DSA/tree/master/0844-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/nehasethii/LeetCode-DSA/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehasethii/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1079-letter-tile-possibilities](https://github.com/nehasethii/LeetCode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/nehasethii/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/nehasethii/LeetCode-DSA/tree/master/1205-defanging-an-ip-address) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/nehasethii/LeetCode-DSA/tree/master/0770-couples-holding-hands) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nehasethii/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/nehasethii/LeetCode-DSA/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehasethii/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nehasethii/LeetCode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nehasethii/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nehasethii/LeetCode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nehasethii/LeetCode-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/nehasethii/LeetCode-DSA/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehasethii/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nehasethii/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -848,4 +851,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nehasethii/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nehasethii/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehasethii/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
