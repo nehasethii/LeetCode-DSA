@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/nehasethii/LeetCode-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehasethii/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nehasethii/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1079-letter-tile-possibilities](https://github.com/nehasethii/LeetCode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/nehasethii/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/nehasethii/LeetCode-DSA/tree/master/1205-defanging-an-ip-address) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nehasethii/LeetCode-DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehasethii/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nehasethii/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nehasethii/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
