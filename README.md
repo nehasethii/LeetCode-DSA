@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/nehasethii/LeetCode-DSA/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/nehasethii/LeetCode-DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nehasethii/LeetCode-DSA/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/nehasethii/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/nehasethii/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/nehasethii/LeetCode-DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/nehasethii/LeetCode-DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nehasethii/LeetCode-DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/nehasethii/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/nehasethii/LeetCode-DSA/tree/master/0539-minimum-time-difference) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/nehasethii/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/nehasethii/LeetCode-DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nehasethii/LeetCode-DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/nehasethii/LeetCode-DSA/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/nehasethii/LeetCode-DSA/tree/master/0861-flipping-an-image) |
