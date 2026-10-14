@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/nehasethii/LeetCode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1651-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/nehasethii/LeetCode-DSA/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nehasethii/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1755-defuse-the-bomb](https://github.com/nehasethii/LeetCode-DSA/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nehasethii/LeetCode-DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/nehasethii/LeetCode-DSA/tree/master/0921-spiral-matrix-iii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/nehasethii/LeetCode-DSA/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nehasethii/LeetCode-DSA/tree/master/1505-create-target-array-in-the-given-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nehasethii/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/nehasethii/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nehasethii/LeetCode-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nehasethii/LeetCode-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nehasethii/LeetCode-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nehasethii/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nehasethii/LeetCode-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/nehasethii/LeetCode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nehasethii/LeetCode-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/nehasethii/LeetCode-DSA/tree/master/0933-number-of-recent-calls) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nehasethii/LeetCode-DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/nehasethii/LeetCode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
